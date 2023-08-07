@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 se modifico por usuario B
+=======
+se agrego primera linea por usuario A
+>>>>>>> db3b644c3bf65bae121d282fd3ab447b18e1e07d
